@@ -22,3 +22,6 @@ The accuracy of the model is roughly 83 percent and the Mean Squared Error is 3.
 The graph of the model in regards to actual car prices:
 
 <img src="https://user-images.githubusercontent.com/87927314/210313067-77dc690a-25a4-4618-9257-5b26ed6c3a58.png" width="400" heigh="400">
+
+### Credits
+[The AI and DS Channel](https://www.youtube.com/@TheAIDSChannel)
